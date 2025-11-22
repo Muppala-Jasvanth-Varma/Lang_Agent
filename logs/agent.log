@@ -1,0 +1,184 @@
+2025-11-22 14:36:28 - ai_agent - WARNING - [2025-11-22T14:36:28.285654] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:36:53 - ai_agent - WARNING - [2025-11-22T14:36:53.930338] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:38:33 - ai_agent - WARNING - [2025-11-22T14:38:33.278372] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:38:39 - ai_agent - WARNING - [2025-11-22T14:38:39.631432] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:38:49 - ai_agent - WARNING - [2025-11-22T14:38:49.828880] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:38:56 - ai_agent - WARNING - [2025-11-22T14:38:56.530399] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:39:17 - ai_agent - WARNING - [2025-11-22T14:39:17.380001] NEO4J_WARNING: Neo4j not available: name 'NEO4J_USER' is not defined - Using fallback mode
+2025-11-22 14:39:55 - ai_agent - WARNING - [2025-11-22T14:39:55.447884] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:40:13 - ai_agent - WARNING - [2025-11-22T14:40:13.608924] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:41:22 - ai_agent - WARNING - [2025-11-22T14:41:22.089442] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:42:46 - ai_agent - WARNING - [2025-11-22T14:42:46.964507] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:43:17 - ai_agent - WARNING - [2025-11-22T14:43:17.720837] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:43:27 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:43:27 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:43:27 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:43:29 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:43:30 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:43:30 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:43:31 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:43:31 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:43:31 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:43:31 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:43:32 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:43:32 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:43:42 - ai_agent - WARNING - [2025-11-22T14:43:42.617795] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:43:52 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:43:52 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:43:52 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:43:52 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:43:53 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:43:53 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:43:59 - ai_agent - WARNING - [2025-11-22T14:43:59.923288] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:44:12 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:44:13 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:44:13 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:44:14 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:44:14 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:44:14 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:44:26 - ai_agent - WARNING - [2025-11-22T14:44:26.473275] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:44:26 - ai_agent - WARNING - [2025-11-22T14:44:26.487568] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:44:42 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:44:42 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:44:43 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:44:43 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:44:43 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:44:43 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:44:43 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:44:43 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:44:43 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:44:43 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:44:43 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:44:43 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:44:43 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.194782] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.194782] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.333056] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.333056] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.346829] STARTUP: AI Agent API server starting up...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.346829] STARTUP: AI Agent API server starting up...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.347889] STARTUP: AI Agent API server starting up...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.347889] STARTUP: All configurations validated successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.347889] STARTUP: All configurations validated successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: All configurations validated successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: AI Agent API server started successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: All configurations validated successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: AI Agent API server started successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: AI Agent API server started successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.349846] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.348884] STARTUP: AI Agent API server started successfully
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.349846] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.349846] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.349846] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.349846] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.350843] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:44:48 - ai_agent - INFO - [2025-11-22T14:44:48.350843] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:00 - ai_agent - WARNING - [2025-11-22T14:45:00.032727] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:45:15 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:45:15 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:45:16 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:45:16 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:45:16 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:45:16 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:45:16 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:45:16 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:45:16 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:45:16 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:45:16 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:45:16 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:45:16 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:45:16 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:45:16 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.498802] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.562198] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.562198] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.568468] STARTUP: AI Agent API server starting up...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.568468] STARTUP: AI Agent API server starting up...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.575713] STARTUP: All configurations validated successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.575713] STARTUP: All configurations validated successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.575713] STARTUP: All configurations validated successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.576057] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.576057] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.576057] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.576057] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:20 - ai_agent - INFO - [2025-11-22T14:45:20.577060] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:28 - torch._subclasses.fake_tensor - INFO - FakeTensor cache stats:
+2025-11-22 14:45:28 - torch._subclasses.fake_tensor - INFO -   cache_hits: 0
+2025-11-22 14:45:28 - torch._subclasses.fake_tensor - INFO -   cache_misses: 0
+2025-11-22 14:45:30 - ai_agent - WARNING - [2025-11-22T14:45:30.330131] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:45:35 - ai_agent - WARNING - [2025-11-22T14:45:35.954464] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:45:44 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:45:45 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:45:45 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:45:45 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:45:45 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:45:45 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:45:45 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:45:45 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.706558] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.840195] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.869674] STARTUP: AI Agent API server starting up...
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.869674] STARTUP: AI Agent API server starting up...
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.869674] STARTUP: All configurations validated successfully
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.869674] STARTUP: All configurations validated successfully
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.872651] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.872651] STARTUP: AI Agent API server started successfully
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.872651] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.872651] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.876209] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:51 - ai_agent - INFO - [2025-11-22T14:45:51.876209] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:45:56 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:45:57 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:45:57 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:45:58 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:45:58 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:45:58 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:45:58 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:45:58 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.237596] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.340131] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.363424] STARTUP: AI Agent API server starting up...
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.363424] STARTUP: AI Agent API server starting up...
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.363424] STARTUP: All configurations validated successfully
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.363424] STARTUP: All configurations validated successfully
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.367561] STARTUP: AI Agent API server started successfully
+2025-11-22 14:46:04 - ai_agent - INFO - [2025-11-22T14:46:04.367561] STARTUP: AI Agent API server started successfully
+2025-11-22 14:46:16 - ai_agent - WARNING - [2025-11-22T14:46:16.144626] NEO4J_WARNING: Neo4j not available: Cannot resolve address f8ba412f.databases.neo4j.io:7687 - Using fallback mode
+2025-11-22 14:46:31 - tensorflow - WARNING - From C:\Users\jasva\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-11-22 14:46:31 - datasets - INFO - PyTorch version 2.5.0 available.
+2025-11-22 14:46:31 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-11-22 14:46:31 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-22 14:46:32 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-22 14:46:32 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-11-22 14:46:32 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-22 14:46:32 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.358467] INTERNET_TOOL: Initialized - Tavily: True
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.385184] SIMPLE_AGENT: Simple LangGraph agent initialized
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.395931] STARTUP: AI Agent API server starting up...
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.395931] STARTUP: AI Agent API server starting up...
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.398881] STARTUP: All configurations validated successfully
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.398881] STARTUP: All configurations validated successfully
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.398881] STARTUP: AI Agent API server started successfully
+2025-11-22 14:46:35 - ai_agent - INFO - [2025-11-22T14:46:35.398881] STARTUP: AI Agent API server started successfully
+2025-11-22 14:46:52 - ai_agent - INFO - [2025-11-22T14:46:52.130961] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:46:52 - ai_agent - INFO - [2025-11-22T14:46:52.130961] SHUTDOWN: AI Agent API server shutting down...
+2025-11-22 14:46:52 - ai_agent - INFO - [2025-11-22T14:46:52.130961] SHUTDOWN: AI Agent API server shutdown complete
+2025-11-22 14:46:52 - ai_agent - INFO - [2025-11-22T14:46:52.130961] SHUTDOWN: AI Agent API server shutdown complete
